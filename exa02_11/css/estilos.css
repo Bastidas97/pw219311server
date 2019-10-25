@@ -1,0 +1,43 @@
+body{
+	font-size: 16px;/*1em*/
+	margin: 0px auto; /*centrar pantalla*/
+	max-width: 1078px;
+	min-width: 1078px;
+}
+header h1{
+text-align: center;
+
+}
+header nav ul li{
+	display: inline-block;
+}
+
+#titulo{
+
+
+
+}
+#planta{
+	width: 61%
+}
+#parimagenes{
+	
+	float: right;
+	margin-top: 30px;
+	margin-right: -260px;
+	
+
+}
+#tela{
+	width: 55%;
+
+}
+#persona{
+width: 55%;
+}
+.nito{
+
+}
+.letragris{
+
+}
