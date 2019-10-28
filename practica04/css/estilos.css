@@ -1,0 +1,111 @@
+body{
+	font-size: 16px;
+	margin: 0px auto;
+	max-width: 1078px;
+	max-width: 1078px;
+}
+header{
+	
+	margin: 0px auto;
+	width: 80%;
+
+}
+header nav ul li{
+	display: inline-block;
+	margin-right: 20px;
+margin-left: -10px;
+	margin-top: 20px;
+
+}
+#borde2{
+	border: 1px dotted gray; 
+}
+#seccFoo1 article span{
+	position: relative;
+	top: -18px;
+	display: inline-block;
+}
+#seccFoo2Art1 article{
+	display: inline-block;
+	text-align: center;
+	width: 17%;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+#seccFoo2Art2 article{
+	display: inline-block;
+	vertical-align: top;
+	width: 19%;
+
+}
+#seccFoo2Art2 article ul li{
+	list-style: none;
+}
+#imgv{
+	width: 25%;
+}
+#banderas{
+	float: right;
+	right: 30px;
+}
+#baika{
+	top: 142px;
+	float: right;
+	right: 270px;
+	position: absolute;
+	width: 25%;
+	
+}
+#logos{
+	width: 15%;
+}
+#buy{
+	position: absolute;
+	width: 3%;
+	right: 490px;
+	top: 70px;
+}
+#years{
+	float: right;
+	position: absolute;
+	right: 650px;
+	width: 6%;
+	top: 490px;
+}
+#shop{
+right: 350px;
+top: 25px;
+position: absolute;
+
+width: 140px;
+}
+#bike{
+	width: 20%;
+	margin-top: 20px;
+}
+#tam{
+	width: 20%;
+
+}
+
+.colorgris{
+	color: gray;
+}
+.borde{
+	border-bottom: 2px gray dotted;
+}
+.letragrande{
+	font-size: 3.5em;
+}
+.nito{
+	font-weight: bold;
+}
+.colorverde{
+	color: #17F404;
+}
+.letrapequeña{
+	font-size: 1em;
+}
+.arial{
+	font: arial;
+}
